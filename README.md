@@ -38,3 +38,5 @@ python seed.py
 
 4. Correr las consultas nuevamente:
 python consultas.py
+
+Gracias por ver. 
